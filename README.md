@@ -86,4 +86,9 @@ Expected Observations:
 Confusion Matrix Interpretation:
 • Errors usually between visually similar gas types.
 • Hybrid reduces ambiguity by using sensor data.
+<img width="716" height="609" alt="image" src="https://github.com/user-attachments/assets/59b17dee-c465-482a-b899-604286e718ae" />
+<img width="900" height="343" alt="image" src="https://github.com/user-attachments/assets/aadc7c5e-93a6-4ca9-8fa6-1ef28e18819a" />
+<img width="591" height="507" alt="image" src="https://github.com/user-attachments/assets/e02a5284-071f-49b7-b17b-06285d70d50f" />
+<img width="900" height="338" alt="image" src="https://github.com/user-attachments/assets/e06887a2-1616-4393-9a6c-711a76ca6f0c" />
+<img width="583" height="498" alt="image" src="https://github.com/user-attachments/assets/8a042397-11bc-4b10-bb64-8cdb9b86f741" />
 <img width="900" height="341" alt="image" src="https://github.com/user-attachments/assets/2e83ff79-e0c6-4529-ba6c-e5b9bc60ed6e" />
